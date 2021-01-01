@@ -5,7 +5,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit 2 <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="bgimg"
@@ -13,7 +12,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>
