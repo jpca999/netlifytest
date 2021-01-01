@@ -25,10 +25,51 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <title>React App</title>
+
+
+    <style>
+       html {
+        height: 100%;
+        margin: 0;
+      }
+
+      body{
+        height: 100%;
+        margin: 0;
+        background-image: url('images/wpgbg.jpg');
+      }
+      
+      .bgimg {
+        background-image: url('images/wpgbg.jpg');
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        color: white;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+      }
+      
+      .topleft {
+        position: absolute;
+        top: 0;
+        left: 16px;
+      }
+      
+      .bottomleft {
+        position: absolute;
+        bottom: 0;
+        left: 16px;
+      }
+      
+      </style>
+
+
+
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+    <div  id="root"></div>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
