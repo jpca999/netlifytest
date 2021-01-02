@@ -105,4 +105,17 @@ https://heartland.com/who-we-are/heartland-dental.html
 DEPLOY - 
 https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/
 
-    
+
+Build dental website - 
+https://www.changehealthcare.com/
+
+
+Put these Pros in the why page - 
+https://www.dentaltown.com/magazine/article/7054/the-cons-and-pros-of-dsos#:~:text=Not%20only%20can%20DSOs%20help,significant%20help%20to%20new%20dentists.
+
+
+Great Dentists pics : 
+https://www.dentalcarealliance.net/affiliation-opportunities/dental-practice-transitions/
+
+https://www.dentalcarealliance.net/?utm_source=dentalcarealliance.com&utm_medium=redirect
+
