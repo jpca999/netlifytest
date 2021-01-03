@@ -123,3 +123,10 @@ https://www.dentalcarealliance.net/affiliation-opportunities/dental-practice-tra
 
 https://www.dentalcarealliance.net/?utm_source=dentalcarealliance.com&utm_medium=redirect
 
+
+/ questions /
+https://www.blackstone.com/careers/students/
+
+
+pics various locations :
+https://www.equityapartments.com/
