@@ -7,6 +7,7 @@ Fix coming soon page.
 Fix Locations -  https://www.equityapartments.com/
 More juice from here - https://www.elitedentalpartners.com/
 
+Replace the 'blackstone' word from everywhere. 
 
 
 
@@ -68,8 +69,6 @@ https://wallmine.com/people/47761/mathis-cabiallavetta
 
 
 
-
-
 Charts - 
 https://www.chartjs.org/samples/latest/charts/line/multi-axis.html
 
@@ -121,9 +120,6 @@ https://heartland.com/who-we-are/heartland-dental.html
 DEPLOY - 
 https://blog.logrocket.com/8-ways-to-deploy-a-react-app-for-free/
 
-
-Build dental website - 
-https://www.changehealthcare.com/
 
 
 Put these Pros in the why page - 
