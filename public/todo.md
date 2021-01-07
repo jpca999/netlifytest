@@ -13,6 +13,13 @@ Replace the 'blackstone' word from everywhere.
 
 <picture><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="https://www.aresmgmt.com/sites/default/files/styles/d08/public/images/2020-01/20191203_ares_nyc_0072x_0.jpg?itok=Wqy0o7ei 1x" media="all and (max-width: 767.98px)" type="image/jpeg"><source srcset="https://www.aresmgmt.com/sites/default/files/styles/d10/public/images/2020-01/20191203_ares_nyc_0072x_0.jpg?itok=Hm4kceHE 1x" media="all and (min-width: 768px)" type="image/jpeg"><source srcset="https://www.aresmgmt.com/sites/default/files/styles/d12/public/images/2020-01/20191203_ares_nyc_0072x_0.jpg?itok=dGTK5aCD 1x" media="all and (min-width: 992px)" type="image/jpeg"><!--[if IE 9]></video><![endif]--><img src="https://www.aresmgmt.com/sites/default/files/styles/d08/public/images/2020-01/20191203_ares_nyc_0072x_0.jpg?itok=Wqy0o7ei" alt="Our Philosophy" typeof="foaf:Image" class="img-fluid"></picture>
 
+Chairman - 
+
+https://investor.tenethealth.com/governance/default.aspx
+
+https://www.uhsinc.com/
+
+
 
 How to Hide the disclaimer 
 https://stackoverflow.com/questions/32865390/popup-on-website-load-once-per-session
