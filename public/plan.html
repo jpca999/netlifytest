@@ -480,10 +480,11 @@
         <div class="wp-block-column">
           <hr class="wp-block-separator is-style-wide" />
 
-          <h2 class="is-style-h4 mt-small">Achieve -2 targets of 20 points each year </h2>
+          <h2 class="is-style-h4 mt-small">Achieve -4 targets of 20 points each year </h2>
           
           <canvas id="canvas"></canvas>
         </div>
+
         <div class="wp-block-column">
           <hr class="wp-block-separator is-style-wide" />
           <h2 class="is-style-h4 mt-small"> Reflection of these points in equity(Mi) </h2>
@@ -491,6 +492,12 @@
         </div>
 
       </div>
+
+
+
+
+
+
 
 
 
@@ -724,17 +731,17 @@
         data: {
           labels: [' year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
           datasets: [{
-            label: 'By yourself',
+            label: 'By yourself-2',
             backgroundColor: window.chartColors.blue,
             borderColor: window.chartColors.blue,
-            data: [0, 3, 2, 1, 2, 1, -10],
+            data: [0,11, 17, 24, 24, 24, 24],
             fill: false,
           }, {
-            label: 'Working with us.',
+            label: 'Working with us. -2',
             fill: false,
             backgroundColor: window.chartColors.orange,
             borderColor: window.chartColors.orange,
-            data: [0, 20, 19, 20, 19, 20, 20],
+            data: [0,11, 28, 52, 76, 100],
           }]
         },
         options: {
@@ -773,11 +780,11 @@
         // }
       };
   
-  
+  //  top right 
       var config2 = {
         type: 'line',
         data: {
-          labels: ['-0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
+          labels: ['0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
           datasets: [ {
             label: 'Number of acqusitions each year.',
             fill: false,
@@ -819,6 +826,12 @@
   
         var ctx2 = document.getElementById('canvas2').getContext('2d');
         window.myLine = new Chart(ctx2, config2);
+
+        var ctx3 = document.getElementById('canvas3').getContext('2d');
+        window.myLine = new Chart(ctx3, config3);
+
+        var ctx4 = document.getElementById('canvas4').getContext('2d');
+        window.myLine = new Chart(ctx4, config4);
       };
     </script>
 </html>
