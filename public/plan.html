@@ -778,18 +778,19 @@
         type: 'line',
         data: {
           labels: ['-0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
-          datasets: [{
-            label: 'Profits By working yourself',
+          datasets: [ {
+            label: 'Number of acqusitions each year.',
+            fill: false,
             backgroundColor: window.chartColors.blue,
             borderColor: window.chartColors.blue,
-            data: [-1, .1, 0, .5, .3, 0, 0],
-            fill: false,
-          }, {
-            label: 'Extra profits from your practice after joining with us.',
+            data: [0,11, 17, 24, 24, 24, 24],
+          },
+           {
+            label: 'Total Number of acquisitions.',
             fill: false,
             backgroundColor: window.chartColors.orange,
             borderColor: window.chartColors.orange,
-            data: [0, 1, 2, 3, 4, 5, 6],
+            data: [0,11, 28, 52, 76, 100],
           }]
         },
         options: {
@@ -804,7 +805,7 @@
                   type: 'linear',
                   position: 'right',
                   ticks: {
-                    max: 7,
+                    max: 30,
                     min: -1
                   }
                 }]
