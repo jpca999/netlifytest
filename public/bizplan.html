@@ -697,18 +697,14 @@
           label: 'Acquisitions per Year',
           backgroundColor: window.chartColors.blue,
           borderColor: window.chartColors.blue,
-          data: [0, 7, 12, 18, 18, 19, 24],
+          data: [0, 7, 12, 18, 18, 20, 24],
           fill: false,
         }]
       },
       options: {
         responsive: true,
         scales: {
-          yAxes: [{
-            id: 'A',
-            type: 'linear',
-            position: 'left',
-          }, {
+          yAxes: [ {
             id: 'B',
             type: 'linear',
             position: 'right',
@@ -741,7 +737,7 @@
     var config2 = {
       type: 'line',
       data: {
-        labels: ['0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
+        labels: ['0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year', '6th year'],
         datasets: [{
             label: 'Total Acquisitions.',
             fill: false,
@@ -755,10 +751,6 @@
         responsive: true,
         scales: {
           yAxes: [{
-            id: 'A',
-            type: 'linear',
-            position: 'left',
-          }, {
             id: 'B',
             type: 'linear',
             position: 'right',
@@ -778,11 +770,6 @@
       var ctx2 = document.getElementById('canvas2').getContext('2d');
       window.myLine = new Chart(ctx2, config2);
 
-      var ctx3 = document.getElementById('canvas3').getContext('2d');
-      window.myLine = new Chart(ctx3, config3);
-
-      var ctx4 = document.getElementById('canvas4').getContext('2d');
-      window.myLine = new Chart(ctx4, config4);
     };
   </script>
 
