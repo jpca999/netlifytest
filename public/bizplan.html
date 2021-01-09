@@ -692,19 +692,13 @@
     var config = {
       type: 'line',
       data: {
-        labels: [' year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
+        labels: ['Start', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
         datasets: [{
-          label: 'By yourself-2',
+          label: 'Acquisitions per Year',
           backgroundColor: window.chartColors.blue,
           borderColor: window.chartColors.blue,
-          data: [0, 11, 17, 24, 24, 24, 24],
+          data: [0, 7, 12, 18, 18, 19, 24],
           fill: false,
-        }, {
-          label: 'Working with us. -2',
-          fill: false,
-          backgroundColor: window.chartColors.orange,
-          borderColor: window.chartColors.orange,
-          data: [0, 11, 28, 52, 76, 100],
         }]
       },
       options: {
@@ -719,8 +713,8 @@
             type: 'linear',
             position: 'right',
             ticks: {
-              max: 20,
-              min: -10
+              max: 30,
+              min: 0
             }
           }]
         }
@@ -749,18 +743,11 @@
       data: {
         labels: ['0 year', '1st year', '2nd year', '3rd year', '4rth year', '5th year'],
         datasets: [{
-            label: 'Number of acqusitions each year.',
-            fill: false,
-            backgroundColor: window.chartColors.blue,
-            borderColor: window.chartColors.blue,
-            data: [0, 11, 17, 24, 24, 24, 24],
-          },
-          {
-            label: 'Total Number of acquisitions.',
+            label: 'Total Acquisitions.',
             fill: false,
             backgroundColor: window.chartColors.orange,
             borderColor: window.chartColors.orange,
-            data: [0, 11, 28, 52, 76, 100],
+            data: [0, 7, 19, 37, 55, 74, 98 ],
           }
         ]
       },
@@ -776,8 +763,8 @@
             type: 'linear',
             position: 'right',
             ticks: {
-              max: 30,
-              min: -1
+              max: 120,
+              min: 0
             }
           }]
         }
