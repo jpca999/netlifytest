@@ -1,3 +1,13 @@
+Fonts - 
+verdana, 
+Courier ( Courier New  is btr )
+Candara
+Optima
+Copperplate
+
+
+
+
 Fix investors page. ( content from other brighterliving )
 
 Fix BEnefits page with ( apply now! )
